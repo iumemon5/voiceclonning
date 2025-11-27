@@ -1,1 +1,4 @@
 references/
+
+# Ignore FUSE temp files
+.fuse_hidden*
